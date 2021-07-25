@@ -6,8 +6,6 @@
   </p>
   The Hacking project is an intensive tech bootcamp that works without teacher nor school. The strength of THP is its community. Indeed, THP relies on peer-learning to pass on skills and knowledges. To know more, click on the link on the banner.
 </div>
-</br></br>
-
 
 
 ## Rules :
